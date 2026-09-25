@@ -15,4 +15,4 @@ Contador com ampla experiência desde 2006, especialista em Finanças, Controlad
 ---
 
 ## 📬 Vamos nos conectar?
-- [Meu LinkedIn]((https://www.linkedin.com/in/hermes-pamplona-2a668661/))
+- [Meu LinkedIn](https://www.linkedin.com/in/hermes-pamplona-2a668661/)
