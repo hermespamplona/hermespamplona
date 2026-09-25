@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou o Hermes Pamplona! 👋
 
-<!--
-**hermespamplona/hermespamplona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Contador com ampla experiência desde 2006, especialista em Finanças, Controladoria e Auditoria. Pós-graduado em Direito Administrativo e atualmente em transição de carreira focado em **Análise de Dados**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Habilidades e Ferramentas
+- 📊 **Finanças & Controladoria:** Análise Financeira, Auditoria, Custos e Orçamentos.
+- 📉 **Business Intelligence:** Excel Avançado e Dashboards.
+- 🐍 **Tecnologia:** Python - SQL (Em desenvolvimento para análise de grandes volumes de dados).
+
+## 🚀 Estudos Atuais
+- 💻 **Desenvolvedor Júnior:** Focado no aprendizado e desenvolvimento de projetos práticos com **HTML5, CSS3 e JavaScript**
+
+---
+
+## 📬 Vamos nos conectar?
+- [Meu LinkedIn]((https://www.linkedin.com/in/hermes-pamplona-2a668661/))
